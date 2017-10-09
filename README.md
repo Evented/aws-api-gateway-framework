@@ -2,6 +2,10 @@
 
 > A framework for creating RESTful AWS API Gateway APIs with AWS CloudFormation
 
+### Status
+* Master: [![CircleCI](https://circleci.com/gh/Evented/aws-api-gateway-framework/tree/master.svg?style=svg)](https://circleci.com/gh/Evented/aws-api-gateway-framework/tree/master)
+* Develop: [![CircleCI](https://circleci.com/gh/Evented/aws-api-gateway-framework/tree/develop.svg?style=svg)](https://circleci.com/gh/Evented/aws-api-gateway-framework/tree/develop)
+
 ## Intro
 
 **This project is currently an early alpha. Features and documentation may be incomplete. Many things will likely change.**
@@ -18,6 +22,6 @@ If you've ever wanted to build a REST API with [AWS API Gateway](https://aws.ama
 
 ## TODO
 * [ ] Tests
-* [ ] Set up CI
+* [x] Set up CI
 * [ ] Implement a CLI tool
 * [ ] Provide an  example implementation
